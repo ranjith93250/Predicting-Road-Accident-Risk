@@ -28,7 +28,7 @@
 🎖️  Novice        ✅ COMPLETED
 🥉  Contributor   ✅ COMPLETED  
 🥈  Expert        🎯 IN PROGRESS
-🥇  Master        🔒 LOCKED (Coming Soon)
+🥇  Master        🔒 LOCKED (Coming Soon) 
 👑  Grandmaster   🔒 LOCKED (Ultimate Goal)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -39,7 +39,7 @@
 - ✅ Competition #2: Top 23% - Skills Sharpened
 - 🎯 Competition #3: Top 10% - Expert Tier Target
 - 🏆 Competition #4-5: Podium Finish - Expert Unlocked
-
+ 
 ### **Path to Grandmaster:**
 - 🥇 Multiple Gold Medals Required
 - 🥈 Consistent Top 10% Finishes
@@ -59,7 +59,7 @@ Fresh off our Top 48% debut, we returned STRONGER, SMARTER, and more DETERMINED.
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="25%"> 
 <img src="https://github.com/mohan13krishna.png" width="150px" style="border-radius: 50%;" alt="Mohan Krishna Thalla"/><br />
 <b>👑 Mohan Krishna Thalla</b><br />
 <i>Team Lead & ML Architect</i><br /><br />
@@ -69,7 +69,7 @@ Fresh off our Top 48% debut, we returned STRONGER, SMARTER, and more DETERMINED.
 <td align="center" width="25%">
 <img src="https://github.com/rakeshkolipakaace.png" width="150px" style="border-radius: 50%;" alt="Rakesh Kolipaka"/><br />
 <b>🔧 Rakesh Kolipaka</b><br />
-<i>Data Scientist</i><br />
+<i>Data Scientist</i><br /> 
 <i>Optimization Master</i><br /><br />
 <a href="https://www.kaggle.com/rakesh630"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
 <a href="https://github.com/rakeshkolipakaace"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
